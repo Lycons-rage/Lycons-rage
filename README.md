@@ -16,8 +16,6 @@ I'm passionate about learning, collaborating, and contributing to the world of t
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lycons-rage&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lycons-rage)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Lycons-rage)  
  
 <!--
