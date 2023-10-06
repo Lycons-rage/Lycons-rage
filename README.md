@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hey there...👋
 
+I am Chinmaya Tewari from Jaipur, Rajasthan, India. I'm currently pursuing Masters in Computer Application from National Institute of Technology, Raipur. I'm learning Data Structures and Algorithms and Data Science in Java and Python respectively. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lycons-rage)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Lycons-rage/Lycons-rage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
