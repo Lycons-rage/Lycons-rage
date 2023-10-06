@@ -18,11 +18,8 @@ I'm passionate about learning, collaborating, and contributing to the world of t
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lycons-rage)  
 
-![GitHub metrics](https://metrics.lecoq.io/Lycons-rage)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Lycons-rage)  
-
-![Profile views](https://gpvc.arturio.dev/Lycons-rage)  
+ 
 <!--
 **Lycons-rage/Lycons-rage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
