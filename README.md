@@ -14,9 +14,9 @@ I'm passionate about learning, collaborating, and contributing to the world of t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycons-rage)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lycons-rage&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lycons-rage&show_icons=true)   ![GitHub streak stats](https://streak-stats.demolab.com/?user=Lycons-rage)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Lycons-rage)  
+
  
 <!--
 **Lycons-rage/Lycons-rage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
