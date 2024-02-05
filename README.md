@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Chinmaya
+#### **Hi there 👋, my name is Chinmaya**
 #### Data Science and Machine Learning 
 ![Data Science and Machine Learning ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
