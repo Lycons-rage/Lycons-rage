@@ -9,12 +9,7 @@ I'm passionate about learning, collaborating, and contributing to the world of t
 - 🔭 PYTHON, JAVA
 - 🌱 DATA SCIENCE and DSA
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Lycons-rage) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycons-rage)](https://github.com/anuraghazra/github-readme-stats)  
-
-
- 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Lycons-rage)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycons-rage)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
 **Lycons-rage/Lycons-rage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
