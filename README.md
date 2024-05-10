@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chinmaya Tewari</h1>
 <h3 align="center">A passionate Machine Learning and Data Science Intermediate from India</h3>
+<img src="insights-era.gif" alt="profile_gif">
 
 - 🔭 I’m currently working on **Classification based project**
 
