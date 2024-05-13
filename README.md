@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chinmaya Tewari</h1>
 <h3 align="center">🤖 Analytical alchemist with a passion for transforming data into insights 🌟</h3>
-<img src="insights-era.gif" alt="profile_gif">
+<img src="insights-era.gif" alt="profile_gif" height = 80%>
 
 - 🔭 I’m currently working on **Classification based project**
 
