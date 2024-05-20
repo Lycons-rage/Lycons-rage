@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chinmaya Tewari</h1>
 <h3 align="center">🤖 Analytical alchemist with a passion for transforming data into insights 🌟</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lycons-rage&label=Profile%20views&color=0e75b6&style=flat" alt="Lycons-rage" /> </p>
+
 <img src="insights-era.gif" alt="profile_gif">
 
 - 🔭 I’m currently working on **Classification based project**
