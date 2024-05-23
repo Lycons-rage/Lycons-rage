@@ -5,7 +5,7 @@
 
 <img src="insights-era.gif" alt="profile_gif">
 
-- 🔭 I’m currently working on **Classification based project**
+- 🔭 I’m currently working on **Deep Learning**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Analytics**
 
