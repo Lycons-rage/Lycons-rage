@@ -5,7 +5,7 @@
 
 <img src="insights-era.gif" alt="profile_gif">
 
-- 🔭 I’m currently working on [Phishing Classifier Project](https://github.com/Lycons-rage/phishing_classifier)
+- 🔭 I’m currently working on [NOVA AI Project](https://github.com/Lycons-rage/nova_ai)
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Analytics**
 
