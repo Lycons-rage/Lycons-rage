@@ -5,13 +5,13 @@
 
 <img src="insights-era.gif" alt="profile_gif">
 
-- 🔭 I’m currently working on [NOVA AI Project](https://github.com/Lycons-rage/nova_ai)
+- 🔭 I’m currently working as Software Engineer Intern in AI/ML Domain
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Analytics**
 
 - 💬 Ask me about **Python, Flask, Data Science**
 
-- 📫 How to reach me **chinmayatewari.20@gmail.com**
+- 📫 How to reach me **chinmayatewari.2002@gmail.com**
 
 - ⚡ Fun fact **Machine Learning can classify cats and dogs with high accuracy, but it still can’t tell if your cat really loves you or just wants more treats.**
 
